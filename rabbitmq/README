@@ -1,0 +1,11 @@
+Rabbitmq的本地服务启动
+
+
+1. 单机版
+
+
+2. 集群版
+
+
+3. reference
+ [https://docs.docker.com/samples/library/rabbitmq/#running-the-daemon]
