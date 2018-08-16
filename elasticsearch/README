@@ -3,4 +3,11 @@ how to use the elasticsearch
 
 1. get started
 
+
+2. alter the vm.max_map_count
+
+mac 
+
+
 [https://docs.docker.com/samples/library/elasticsearch/#cluster]
+[https://stackoverflow.com/questions/41192680/update-max-map-count-for-elasticsearch-docker-container-mac-host]
